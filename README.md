@@ -5,6 +5,8 @@
 ## General Information
    *  This repository was created as a project to use JavaScript and markdown
       to build a program to generate a random message to user.
+      My program is a MEAL PLAN generator that makes suggestions for a dinner menu
+      with a beverage, entree, and a side dish.
    *  There are two files: a script.js and a READEME.md
    *  The (Javascript file) script.js contains the message generator content
    *  The README.md utilized the Markdown language syntax
