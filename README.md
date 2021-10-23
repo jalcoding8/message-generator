@@ -16,7 +16,7 @@ This Project is created with/by:
    *  JavaScript
    *  Utilizing Markdown language for the README.md content
    *  Visual Studio Code
-   *  Using git commands in bash shell terminal
+   *  Using git commands in bash shell terminal and GitHub
    *  ASCII emoticons modified per JavaScript syntax
    *  Stack Overflow
    *  Google
