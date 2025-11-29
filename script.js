@@ -4,6 +4,7 @@ const randomMeal = () => {
     console.log("THE MEAL PLAN GENERATOR")
     console.log("")
     console.log("Creating a meal suggestion to include a beverage, entree and side dish")
+    console.log("")
     let bevOne = String.fromCodePoint(0x1F377);  //wine
     //console.log(bevOne);
     let bevTwo = String.fromCodePoint(0x1F37A);  //beer
